@@ -10,7 +10,8 @@ The downloaded file is in zip format so unzip the dataset using the following li
 # Spliting the data
     Before training the dataset we must split the data into two groups (training set and validation set). We split the dataset randomly, usually 80% of data is 
     used as training set and 20% as validation set.
-    ![splitting the data](https://github.com/TejashKatuwal/Malria-cell-classifiaction/assets/118622724/47eb54f9-c886-4289-a82e-c54c82c75694)
+    ![splitting the data](https://github.com/TejashKatuwal/Malria-cell-classifiaction/assets/118622724/2d2a10d1-dd8d-45d5-a686-e3115bfa4f19)
+
 
 # Augmentation
     Augmentation is the process of shifting the metrics of data like rotating, cropping to enhance the number of training data and as a result of that the accuracy.
